@@ -1,0 +1,40 @@
+﻿生成启动时间为 2018/6/1 10:41:32。
+     1>项目“I:\vs2015编程\MFCDialog1\MFCLibrary\MFCLibrary.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         I:\软件\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /D _CRT_SECURE_NO_WARNINGS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\MFCLibrary.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt AddDailog.cpp BooksInfo.cpp DelDialog.cpp DisplayView.cpp InfoDailog.cpp LoginDlg.cpp MFCLibrary.cpp MFCLibraryDoc.cpp MFCLibraryView.cpp MainFrm.cpp SelectView.cpp
+         DelDialog.cpp
+         正在生成代码...
+         正在跳过...(未检测到相关更改)
+         SelectView.cpp
+         MFCLibraryView.cpp
+         MFCLibraryDoc.cpp
+         MFCLibrary.cpp
+         LoginDlg.cpp
+         InfoDailog.cpp
+         DisplayView.cpp
+         BooksInfo.cpp
+         AddDailog.cpp
+         MainFrm.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\MFCLibrary.res" MFCLibrary.rc 
+       Link:
+         I:\软件\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"I:\vs2015编程\MFCDialog1\Debug\MFCLibrary.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"I:\软件\VC\Include\Manifest\dpiaware.manifest" /Debug /PDB:"I:\vs2015编程\MFCDialog1\Debug\MFCLibrary.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"I:\vs2015编程\MFCDialog1\Debug\MFCLibrary.lib" /MACHINE:X86 Debug\MFCLibrary.res
+         Debug\AddDailog.obj
+         Debug\BooksInfo.obj
+         Debug\DelDialog.obj
+         Debug\DisplayView.obj
+         Debug\FileHelp.obj
+         Debug\InfoDailog.obj
+         Debug\LoginDlg.obj
+         Debug\MainFrm.obj
+         Debug\MFCLibrary.obj
+         Debug\MFCLibraryDoc.obj
+         Debug\MFCLibraryView.obj
+         Debug\SelectView.obj
+         Debug\stdafx.obj
+         MFCLibrary.vcxproj -> I:\vs2015编程\MFCDialog1\Debug\MFCLibrary.exe
+     1>已完成生成项目“I:\vs2015编程\MFCDialog1\MFCLibrary\MFCLibrary.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:10.02
